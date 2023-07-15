@@ -1,4 +1,4 @@
-# Fedotov_QA
+# Fedotov
 [Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1r0SQn_xDYMp5lyq-M4laDON0rEsSJJPv8M83xCXS-zc/edit#gid=0)
 
 ---
