@@ -6,4 +6,4 @@
 [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/179CJuuhobJqaoYwJtynOKC2Sr_nmZRrBtjid3k7JDtg/edit?usp=sharing)
 
 
-[Привер тестового задания](https://docs.google.com/spreadsheets/d/1Bh-u1DFrgXq8c8foEqxeY5Neo715L-IwA1vNFFZ6C94/edit#gid=0)
+[Пример тестового задания](https://docs.google.com/spreadsheets/d/1Bh-u1DFrgXq8c8foEqxeY5Neo715L-IwA1vNFFZ6C94/edit#gid=0)
